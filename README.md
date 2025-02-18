@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Anshu Dhawan</h1>
 <h3 align="center">Hi everyone! 👋 I'm Anshu Dhawan, a CSE student passionate about web development, technology,coding. I enjoy writing clean, efficient code and building visually appealing, responsive websites I’m always excited to learn, collaborate, and explore new technologies. Let's connect and grow together! 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshudhawan12&label=Profile%20views&color=0e75b6&style=flat" alt="anshudhawan12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshudhawan12&label=Profile%20views&color=0e75b6&style=flat" alt="Anshudhawan12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshudhawan12" alt="anshudhawan12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anshudhawan12" alt="Anshudhawan12" /></a> </p>
 
 - 🌱 I’m currently learning **✅ Java Development 💻, ✅ Problem Solving & DSA 🧠, React ⚛️ + JavaScript 💬**
 
