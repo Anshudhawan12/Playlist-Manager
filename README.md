@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Anshu+Dhawan+.;CSE+Student+; passionate about web development, technology,coding...;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
-  
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Anshu+Dhawan+.;CSE+Student+; passionate about web development, technology,coding...;Learning+In+Public..;Nice+To+Meet+You+....&center=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshudhawan12&label=Profile%20views&color=0e75b6&style=flat" alt="Anshudhawan12" /> </p>
 
@@ -26,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **✅ Java Development, ✅ Problem Solving & DSA, React ⚛️ + JavaScript 💬**
   <br>
 - 👨‍💻 All of my projects are available at [https://github.com/Anshudhawan12](https://github.com/Anshudhawan12)
-<br>
+  <br>
 - 📫 How to reach me **anshudhawan920@gmail.com**
 
 
