@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Anshu Dhawan</h1>
-<br>
+
 <h3 align="center">Hi everyone! 👋 I'm Anshu Dhawan, a CSE student passionate about web development, technology,coding.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshudhawan12&label=Profile%20views&color=0e75b6&style=flat" alt="Anshudhawan12" /> </p>
