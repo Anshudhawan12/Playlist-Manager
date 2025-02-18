@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **✅ Java Development, ✅ Problem Solving & DSA, React ⚛️ + JavaScript 💬**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anshudhawan1](https://github.com/Anshudhawan1)
+- 👨‍💻 All of my projects are available at [https://github.com/Anshudhawan12](https://github.com/Anshudhawan12)
 
 - 📫 How to reach me **anshudhawan920@gmail.com**
 
