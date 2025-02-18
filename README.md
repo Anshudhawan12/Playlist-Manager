@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshudhawan12&label=Profile%20views&color=0e75b6&style=flat" alt="Anshudhawan12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anshudhawan12" alt="Anshudhawan12" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning **✅ Java Development, ✅ Problem Solving & DSA, React ⚛️ + JavaScript 💬**
   <br>
