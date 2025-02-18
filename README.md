@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **anshudhawan920@gmail.com**
 
 
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +36,8 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anshudhawan920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anshudhawan920" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/juusttanshu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/juusttanshu/" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,10 +45,18 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-<h3 align="left">Github Stats:</h3>
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
+
+```text
+Python   3 hrs 58 mins    █████████████████████████   100.00 %
+```
+<!--END_SECTION:waka-->
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
