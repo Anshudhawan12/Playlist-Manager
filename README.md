@@ -1,133 +1,61 @@
+<h1 align="center">👋 Hello, I'm Anshu Dhawan</h1>
 
-<h2 align="center">Hi, I'm Anmol 👋</h2>
 <p align="center">
-<!-- Interests Changing below -->
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9b59b6&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Problem+Solver;Passionate+Coder;Open+to+Opportunities" alt="Interests Typing" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Java+%7C+DSA+Explorer;Open+Source+Contributor;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **MERN Stack Projects**
+- 🌱 Learning **Java Development, Data Structures & Algorithms**
+- 💬 Ask me about **Web Development, Java, Problem Solving**
+- 👨‍💻 All my projects are on [GitHub](https://github.com/Anshudhawan12)
+- 📫 Reach me at **anshudhawan920@gmail.com**
+- ⚡ Fun Fact: *Music boosts my coding flow! 🎵*
+
+---
+
+## 🛠️ Tech Stack
+
+| Programming | Frontend | Backend | Database | Tools |
+|:--:|:--:|:--:|:--:|:--:|
+| ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXczczZtcmQ1YXI3YTRjM2swdTQzaTZvNzdmMjg4Z3p3Y2FrdTRpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Music Animation" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshudhawan12&show_icons=true&theme=radical&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Anshudhawan12&theme=radical&border_radius=10" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshudhawan12&layout=compact&theme=radical" width="40%" />
 </p>
 
-<div style="font-family: 'Courier New', monospace;">
-  <h2>👨‍💻 About Me </h2>
-  <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: fit-content;">
-  🔭 Currently building dynamic websites using <b>MERN Stack</b> while learning advanced <b>Data Structures & Algorithms</b> in <b>Java</b>.
-</p>
-</div>
+---
 
+## 🏆 Coding Profiles
 
-<hr/>
-
-<h2>💼 Technical Stack</h2>
-
-<table style="width:100%; border-collapse: collapse;" border="1" cellpadding="8">
-  <thead>
-    <tr style="background-color:#f2f2f2;">
-      <th style="text-align:left;">Category</th>
-      <th style="text-align:left;">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Programming Languages</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend Development</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend Development</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Version Control and Deployement</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-        <img src="https://img.shields.io/badge/Render-%2300C7B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Database Management</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Designing and Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-        <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-        <img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-<hr/>
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.vercel.app/?user=Anmol283&theme=radical" alt="GitHub Streak" width="47%" height="200" />
-  
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol283&layout=compact&theme=radical" alt="Top Languages" width="47%" height="200" />
-
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Anmol283&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-
-
-<h2>🏆 LeetCode</h2>
-<div align="center">
-  <a href="https://leetcode.com/Anmol_283/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Profile" height="100" width="100" />
-  </a>
-  <br/><br/>
-  <!-- Optional: LeetCode Card (you can uncomment if needed) -->
-  <!-- <img src="https://leetcard.jacoblin.cool/Anmol_283?theme=dark&font=Baloo+Bhai&ext=activity" width="300" alt="LeetCode Stats" /> -->
-</div>
-
-
-
-
-<hr/>
-<h2>🤝 Connect With Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/anmol-573a162a6/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="295anmol@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://leetcode.com/u/juusttanshu/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/anshudhawan920"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshu-dhawan-949a662a6"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anshudhawan920@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>“Keep building. Keep growing. Success is just one more commit away 🚀”</i></p>
+
 
 
 
