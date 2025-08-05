@@ -1,9 +1,5 @@
 <!-- 🎨 Redesigned GitHub Profile README for Anshu Dhawan -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Laptop Animation"/>
-</p>
-
 <h1 align="center">
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 30px; color: #FF4C29;">🌄 Hey there! I'm <strong>Anshu Dhawan</strong> 👋</span>
 </h1>
@@ -13,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="380" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Typing on Laptop Animation"/>
 </p>
 
 ---
@@ -74,8 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="320" alt="Coding Loop"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Rising Rocket"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" alt="Scroll Coding"/>
 </p>
 
 <p align="center"><strong>✨ “Code with soul, build with purpose.”</strong></p>
