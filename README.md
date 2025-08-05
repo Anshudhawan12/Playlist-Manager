@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" alt="Scroll Coding"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Keep Growing Animation"/>
 </p>
 
-<p align="center"><strong>✨ “Code with soul, build with purpose.”</strong></p>
+<p align="center"><strong>🚀 "Sky is not the limit when passion meets dedication!"</strong></p>
