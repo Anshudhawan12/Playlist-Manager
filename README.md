@@ -70,7 +70,7 @@
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="320" alt="Coding Loop"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Rising Rocket"/>
+<!--   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Rising Rocket"/> -->
 </p>
 
 <p align="center"><strong>✨ “Code with soul, build with purpose.”</strong></p>
