@@ -1,11 +1,15 @@
 <!-- 🎨 Redesigned GitHub Profile README for Anshu Dhawan -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Laptop Animation"/>
+</p>
+
 <h1 align="center">
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 30px; color: #FF4C29;">🌄 Hey there! I'm <strong>Anshu Dhawan</strong> 👋</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Backend+Specialist+in+Java+%7C+Node.js;Lifelong+Learner+and+Innovator;Building+Dreams+with+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Backend+Specialist+in+Java+%7C+Node.js;Lifelong+Learner+and+Innovator;Building+Dreams+with+Code" alt="Typing SVG"/>
 </p>
 
 <p align="center">
