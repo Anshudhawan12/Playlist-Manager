@@ -68,9 +68,9 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Keep Growing Animation"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="320" alt="Coding Loop"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Rising Rocket"/>
 </p>
 
-<p align="center"><strong>🚀 "Sky is not the limit when passion meets dedication!"</strong></p>
+<p align="center"><strong>✨ “Code with soul, build with purpose.”</strong></p>
