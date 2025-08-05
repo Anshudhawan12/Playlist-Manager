@@ -14,7 +14,7 @@
 
 ---
 
-## 👤 Who is Anshu?
+## 💡 About Me
 
 ✨ Passionate **Full Stack Web Developer** blending design & functionality
 🚀 Chasing excellence in **MERN Stack + Java Backend**
